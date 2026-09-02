@@ -17,4 +17,4 @@ Finish - Task Created in Database.
 
 ## Note
 
-Other ways of table creation should be considered, such as using a JSON or a CSV or a different method.
+Other ways of table creation should be considered, such as using a JSON or a CSV or a different method, maybe through an API.
